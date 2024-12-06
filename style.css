@@ -84,6 +84,11 @@ body::after {
   transition: 0.5s;
 }
 
+.container .calculator span #c{
+  margin-left:30px;
+}
+
+
 .container .calculator span:hover {
   transition: 0s;
   background: rgba(255, 255, 255, 0.05);
