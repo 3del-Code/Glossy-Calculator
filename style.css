@@ -84,9 +84,6 @@ body::after {
   transition: 0.5s;
 }
 
-.container .calculator span #c{
-  margin-left:40px;
-}
 
 
 .container .calculator span:hover {
